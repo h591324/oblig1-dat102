@@ -1,0 +1,77 @@
+0#Zack and Miri Make a Porno#Dokumentar#The Weinstein Company#2008#Steven Spielberg
+1#Youth in Revolt#Komedie#The Weinstein Company#2010#Quentin Tarantino
+2#You Will Meet a Tall Dark Stranger#Komedie#Independent#2010#Spike Lee
+3#When in Rome#Komedie#Disney#2010#Quentin Tarantino
+4#What Happens in Vegas#Komedie#Fox#2008#Spike Lee
+5#Water For Elephants#Drama#20th Century Fox#2011#Quentin Tarantino
+6#WALL-E#Action#Disney#2008#Spike Lee
+7#Waitress#Dokumentar#Independent#2007#Quentin Tarantino
+8#Waiting For Forever#Dokumentar#Independent#2011#Spike Lee
+9#Valentine's Day#Komedie#Warner Bros.#2010#Quentin Tarantino
+10#Tyler Perry's Why Did I get Married#Dokumentar#Independent#2007#Spike Lee
+11#Twilight: Breaking Dawn#Dokumentar#Independent#2011#Quentin Tarantino
+12#Twilight#Dokumentar#Summit#2008#Spike Lee
+13#The Ugly Truth#Komedie#Independent#2009#Quentin Tarantino
+14#The Twilight Saga: New Moon#Drama#Summit#2009#Spike Lee
+15#The Time Traveler's Wife#Drama#Paramount#2009#Quentin Tarantino
+16#The Proposal#Komedie#Disney#2009#Spike Lee
+17#The Invention of Lying#Komedie#Warner Bros.#2009#Quentin Tarantino
+18#The Heartbreak Kid#Komedie#Paramount#2007#Spike Lee
+19#The Duchess#Drama#Paramount#2008#Quentin Tarantino
+20#The Curious Case of Benjamin Button#Action#Warner Bros.#2008#Spike Lee
+21#The Back-up Plan#Komedie#CBS#2010#Quentin Tarantino
+22#Tangled#Action#Disney#2010#Spike Lee
+23#Something Borrowed#Dokumentar#Independent#2011#Quentin Tarantino
+24#She's Out of My League#Komedie#Paramount#2010#Spike Lee
+25#Sex and the City Two#Komedie#Warner Bros.#2010#Quentin Tarantino
+26#Sex and the City 2#Komedie#Warner Bros.#2010#Spike Lee
+27#Sex and the City#Komedie#Warner Bros.#2008#Quentin Tarantino
+28#Remember Me#Drama#Summit#2010#Spike Lee
+29#Rachel Getting Married#Drama#Independent#2008#Quentin Tarantino
+30#Penelope#Komedie#Summit#2008#Spike Lee
+31#P.S. I Love You#Dokumentar#Independent#2007#Quentin Tarantino
+32#Over Her Dead Body#Komedie#New Line#2008#Spike Lee
+33#Our Family Wedding#Komedie#Independent#2010#Quentin Tarantino
+34#One Day#Dokumentar#Independent#2011#Spike Lee
+35#Not Easily Broken#Drama#Independent#2009#Quentin Tarantino
+36#No Reservations#Komedie#Warner Bros.#2007#Spike Lee
+37#Nick and Norah's Infinite Playlist#Komedie#Sony#2008#Quentin Tarantino
+38#New Year's Eve#Dokumentar#Warner Bros.#2011#Spike Lee
+39#My Week with Marilyn#Drama#The Weinstein Company#2011#Quentin Tarantino
+40#Music and Lyrics#Dokumentar#Warner Bros.#2007#Spike Lee
+41#Monte Carlo#Dokumentar#20th Century Fox#2011#Quentin Tarantino
+42#Miss Pettigrew Lives for a Day#Komedie#Independent#2008#Spike Lee
+43#Midnight in Paris#Action#Sony#2011#Quentin Tarantino
+44#Marley and Me#Komedie#Fox#2008#Spike Lee
+45#Mamma Mia!#Komedie#Universal#2008#Quentin Tarantino
+46#Mamma Mia!#Komedie#Universal#2008#Spike Lee
+47#Made of Honor#Action#Sony#2008#Quentin Tarantino
+48#Love Happens#Drama#Universal#2009#Spike Lee
+49#Love & Other Drugs#Komedie#Fox#2010#Quentin Tarantino
+50#Life as We Know It#Komedie#Independent#2010#Spike Lee
+51#License to Wed#Komedie#Warner Bros.#2007#Quentin Tarantino
+52#Letters to Juliet#Komedie#Summit#2010#Spike Lee
+53#Leap Year#Komedie#Universal#2010#Quentin Tarantino
+54#Knocked Up#Komedie#Universal#2007#Spike Lee
+55#Killers#Action#Lionsgate#2010#Quentin Tarantino
+56#Just Wright#Komedie#Fox#2010#Spike Lee
+57#Jane Eyre#Dokumentar#Universal#2011#Quentin Tarantino
+58#It's Complicated#Komedie#Universal#2009#Spike Lee
+59#I Love You Phillip Morris#Komedie#Independent#2010#Quentin Tarantino
+60#High School Musical 3: Senior Year#Komedie#Disney#2008#Spike Lee
+61#He's Just Not That Into You#Komedie#Warner Bros.#2009#Quentin Tarantino
+62#Good Luck Chuck#Komedie#Lionsgate#2007#Spike Lee
+63#Going the Distance#Komedie#Warner Bros.#2010#Quentin Tarantino
+64#Gnomeo and Juliet#Action#Disney#2011#Spike Lee
+65#Gnomeo and Juliet#Action#Disney#2011#Quentin Tarantino
+66#Ghosts of Girlfriends Past#Komedie#Warner Bros.#2009#Spike Lee
+67#Four Christmases#Komedie#Warner Bros.#2008#Quentin Tarantino
+68#Fireproof#Drama#Independent#2008#Spike Lee
+69#Enchanted#Komedie#Disney#2007#Quentin Tarantino
+70#Dear John#Drama#Sony#2010#Spike Lee
+71#Beginners#Komedie#Independent#2011#Quentin Tarantino
+72#Across the Universe#Action#Independent#2007#Spike Lee
+73#A Serious Man#Drama#Universal#2009#Quentin Tarantino
+74#A Dangerous Method#Drama#Independent#2011#Spike Lee
+75#27 Dresses#Komedie#Fox#2008#Quentin Tarantino
+76#(500) Days of Summer#Action#Fox#2009#Spike Lee
